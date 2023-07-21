@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T04:33:45.930Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nvguW4bTdB_eZ3bjgG32" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T04:34:02.799Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="t_ctFxV6jTA7WT0Kb-my" version="21.5.0" type="github">
   <diagram name="Page-1" id="r-T6OLwQH29qr_7euo9l">
     <mxGraphModel dx="1360" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,12 +179,6 @@
         </mxCell>
         <mxCell id="UM1lkRkdmTxZcLt3DXa_-1" value="Datastax AstraDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="UM1lkRkdmTxZcLt3DXa_-8">
           <mxGeometry x="574" y="261" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UM1lkRkdmTxZcLt3DXa_-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UM1lkRkdmTxZcLt3DXa_-8">
-          <mxGeometry x="370" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UM1lkRkdmTxZcLt3DXa_-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UM1lkRkdmTxZcLt3DXa_-8">
-          <mxGeometry x="370" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
